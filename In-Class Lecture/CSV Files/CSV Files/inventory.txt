@@ -1,0 +1,4 @@
+Item,SerialNumber,Description,Price,OnHand
+Cheezits(12 Ounce),123456,Cheddar Snacks,1.99,55
+Dinty Moore Beef Stew,234567,Canned Soup,2.33,4
+Milk Bones (small),333445,Dog Biscuits,5.44,22
