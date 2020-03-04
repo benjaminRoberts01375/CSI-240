@@ -30,6 +30,5 @@
 *.out
 *.app
 
-# Xcode
-*.xcodeproj
+# Mac Stuff
 *.DS_Store
