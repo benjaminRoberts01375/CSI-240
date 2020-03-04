@@ -1,5 +1,5 @@
 /**
-@file functions.h meeeee
+@file functions.h
 @brief setup arrays, and call functions to organize programming languages into list.
 @author Ben Roberts
 @credits Murat K . Gungor & Brian R. Hall
