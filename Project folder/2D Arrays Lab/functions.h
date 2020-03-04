@@ -1,7 +1,7 @@
 /**
 @file functions.h
 @brief setup arrays, and call functions to organize programming languages into list.
-@author Ben Roberts
+@author Ben Roberts That's me!
 @credits Murat K . Gungor & Brian R. Hall
 @assignment Lab 1.2a - 2D Array
 @date 12/20/2020
