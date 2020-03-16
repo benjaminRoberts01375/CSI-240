@@ -28,7 +28,7 @@
 		071E1AFC240D7BAC00D8A5A2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		071E1B03240D7BBF00D8A5A2 /* linkedlist.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = linkedlist.cpp; sourceTree = "<group>"; };
 		071E1B04240D7BBF00D8A5A2 /* linkedlist.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = linkedlist.h; sourceTree = "<group>"; };
-		071E1B06240D7BD600D8A5A2 /* nums.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = nums.txt; sourceTree = "<group>"; };
+		0741D14A241ED7AF00896587 /* nums.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = nums.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 				071E1AFC240D7BAC00D8A5A2 /* main.cpp */,
 				071E1B03240D7BBF00D8A5A2 /* linkedlist.cpp */,
 				071E1B04240D7BBF00D8A5A2 /* linkedlist.h */,
-				071E1B06240D7BD600D8A5A2 /* nums.txt */,
+				0741D14A241ED7AF00896587 /* nums.txt */,
 			);
 			path = "Linked List Cont";
 			sourceTree = "<group>";
