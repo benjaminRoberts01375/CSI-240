@@ -109,10 +109,10 @@ Coordinate::Coordinate(int x, int y, std::string label) : x{x}, y{y}
     yCord = y - rhs.y;
     
     if (xCord < 0){
-        xCord = 0;
+    xCord = 0;
     }
     if (yCord < 0){
-        yCord = 0;
+    yCord = 0;
     }
     Coordinate retVal(xCord, yCord, *(label));
     return retVal;
