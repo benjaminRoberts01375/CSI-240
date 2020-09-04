@@ -44,10 +44,10 @@ public:
     Coordinate operator+(const Coordinate& rhs);
     //4.1 the declaration <<
     //insertion << override
+    
     friend std::ostream& operator<<(std::ostream& out, Coordinate& coord);
     //4.4 the declaration >>
     friend std::istream& operator>>(std::istream& in, Coordinate& coord); //extraction
-    
     
     //Assignment
     Coordinate operator-(const Coordinate& rhs);
